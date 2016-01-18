@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/6622822/c4c639fe-c8e7-11e4-9e64-5bec06c8b4c3.png" alt="Ghost" /></a>
 <a href="https://travis-ci.org/TryGhost/Ghost"><img align="right" src="https://travis-ci.org/TryGhost/Ghost.svg?branch=master" alt="Build status" /></a>
 
@@ -135,3 +136,7 @@ Copyright (c) 2013-2015 Ghost Foundation - Released under the [MIT license](LICE
 # 中文版本及插件
 
 Copyright (c) 2013-2015 Ghost 中国/中文网 - 采用 `MIT 许可协议` 发布。
+=======
+# fa1c0n.github.io
+Fa1c0n's Blog
+>>>>>>> 9c9004297d87fb0d83abc440882a34687760d4a2
